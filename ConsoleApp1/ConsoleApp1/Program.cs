@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //잘 복제 되었어요.
         }
     }
 }
