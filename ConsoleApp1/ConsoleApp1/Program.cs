@@ -13,7 +13,7 @@ namespace ConsoleApp1
             //잘 복제 되었어요.
             // ektl zjalt
             //sdfadsf
-            Console.WriteLine("hello");
+            Console.WriteLine("hello, daddy");
         }
     }
 }
